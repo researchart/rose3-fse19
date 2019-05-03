@@ -1,7 +1,6 @@
 # ROSE Festival #3
-# Recognizing and Rewarding Open Science in Software Engineering
-
-A track at [FSE 2019](https://esec-fse19.ut.ee/), August 28-30, 2019.  
+## Recognizing and Rewarding Open Science in Software Engineering
+### A track at [FSE 2019](https://esec-fse19.ut.ee/), August 28-30, 2019.  
 
 - [Call for presentations](cfp.md) Due July 10, 2019.
 
