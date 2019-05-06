@@ -1,24 +1,9 @@
-# Call for Presentations
+Call for Presentations
 
-##  The Third ROSE Festival, FSE 2019
-##  Recognizing and Rewarding Open Science in Software Engineering  
-
-<img align="center" src="etc/img/header.png">  
+The Third ROSE Festival, a special track at FSE 2019
+Recognizing and Rewarding Open Science in Software Engineering  
 
 Submissions due July 10, 2019.  
-A track at [FSE 2019](https://esec-fse19.ut.ee/).
-
-- Chairs and organizers:
-     - Gregory Gay, Chalmers | University of Gothenburg, Sweden
-     - Tim Menzies, NC State University, USA
-- Program Committee:
-     - Neil	Ernst,	University of Victoria, Canada
-     - Robert	Feldt,	Chalmers | University of Gothenburg, Sweden
-     - Daniel	Graziotin,	University of Stuttgart, Germany
-     - Martin	Monperrus,	University of Lille & INRIA, France
-     - Chakkrit	Tantithamthavorn, Monash University, Australia
-     - Sira	Vegas,	Universidad Politécnica de Madrid, Spain
-     - Thomas	Zimmermann,	Microsoft Research, USA
  
 ## Aim
 
@@ -36,7 +21,7 @@ Note that:
 
 ## HOW TO SUBMIT:
 
-Submit your proposal to [Easychair](https://easychair.org/conferences/?conf=rosefse19).
+Submit your proposal at https://easychair.org/conferences/?conf=rosefse19.
 
 Submissions to ROSE are an abstract (one page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
 
@@ -74,8 +59,20 @@ The top 10 abstracts (or more, if there is time), will be invited to give lightn
 
 ## DEFINITIONS:
 
-ROSE adopts the ACM artifact badging conventions. ROSE seeks replicated and reproduced results defined as follows:
-
-![](etc/img/acm.png)
+ROSE adopts the ACM artifact badging conventions. For more information, see https://github.com/researchart/rose3-fse19
 
 **IMPORTANT POINT:** Replication is more than just "they downloaded my scripts and ran exactly those". There must be something changed in the replication work (but perhaps that change is not very large).
+
+## Organization
+
+- Chairs and organizers:
+     - Gregory Gay, Chalmers | University of Gothenburg, Sweden
+     - Tim Menzies, NC State University, USA
+- Program Committee:
+     - Neil	Ernst,	University of Victoria, Canada
+     - Robert	Feldt,	Chalmers | University of Gothenburg, Sweden
+     - Daniel	Graziotin,	University of Stuttgart, Germany
+     - Martin	Monperrus,	University of Lille & INRIA, France
+     - Chakkrit	Tantithamthavorn, Monash University, Australia
+     - Sira	Vegas,	Universidad Politécnica de Madrid, Spain
+     - Thomas	Zimmermann,	Microsoft Research, USA
