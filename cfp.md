@@ -11,6 +11,10 @@ A track at [FSE 2019](https://esec-fse19.ut.ee/).
 - Chairs and organizers:
      - Gregory Gay, Chalmers | University of Gothenburg, Sweden
      - Tim Menzies, NC State University, USA
+- Steering Committee:
+     - Robert Feldt,	Chalmers | University of Gothenburg, Sweden
+     - Tim Menzies, NC State University, USA
+     - Thomas	Zimmermann,	Microsoft Research, USA
 - Program Committee:
      - Neil	Ernst,	University of Victoria, Canada
      - Robert	Feldt,	Chalmers | University of Gothenburg, Sweden
@@ -52,7 +56,8 @@ We also welcome methodological (meta) talks that help promote, facilitate or inc
 To facilitate easy reviewing, authors are encouraged to following the following format for their abstract:
 
 - TITLE: “A [Partial] (Replication|Reproduction) of XYZ”. Please add the term “partial” to your title if only some of the original work could be replicated/reproduced.
-- WHO: name the original authors (and paper) and the authors that performed the replication/reproduction.
+- WHO: name the original authors (and paper) and the authors that performed the replication/reproduction. Include contact information (e-mails). Mark one author as the corresponding author.
+     - IMPORTANT: include also a web link to a publically avaialble URL directory containing (a)the original paper (that is being reproduced) and (b)any subsequent paper(s)/documents/reports that do the reproduction.
 - WHAT: describe the “thing” being replicated/reproduced;
 - WHY: clearly state why that “thing” is interesting/important;
 - HOW: say how it was done first
@@ -76,6 +81,13 @@ The top 10 abstracts (or more, if there is time), will be invited to give lightn
 
 ROSE adopts the ACM artifact badging conventions. ROSE seeks replicated and reproduced results defined as follows:
 
-![](etc/img/acm.png)
+<table>
+<thead></thead>
+<tbody(s)>
+<tr><td><strong>Functional</strong>	</td><td align="center"> <strong>Reusable</strong> </td><td align="center"> <strong>Available</strong></td><td align="center"> <strong>Replicated</strong> </td><td align="center"> <strong>Reproduced</strong> </td></tr>
+<tr><td>No Badge </td><td align="center"> <dl><img src="https://2019.icse-conferences.org/getImage/orig/red.jpg" alt=""></dl>  </td><td align="center"> <dl><img src="https://2019.icse-conferences.org/getImage/orig/green.jpg" alt=""></dl>	   </td><td align="center">  <dl><img src="https://2019.icse-conferences.org/getImage/orig/blue.jpg" alt=""></dl> </td><td align="center">  <dl><img src="https://2019.icse-conferences.org/getImage/orig/deepBlue.jpg" alt=""></dl> </td></tr>
+<tr><td> <!--Functional--> Artifacts documented, consistent, complete, exercisable, and include appropriate evidence of verification and validation </td><td align="center"> <!--Reusable--> Functional + very carefully documented and well-structured to the extent that reuse and repurposing is facilitated. In particular, norms and standards of the research community for artifacts of this type are strictly adhered to. </td><td align="center"> <!--Available-->  Functional + placed on a publicly accessible archival repository. A DOI or link to this repository along with a unique identifier for the object is provided. </td><td align="center"> <!--Replicated--> Available + main results of the paper have been obtained in a subsequent study by a person or team other than the authors, using, in part, artifacts provided by the author. </td><td align="center"> <!--Reproduced--> Available + the main results of the paper have been independently obtained in a subsequent study by a person or team other than the authors, without the use of author-supplied artifacts.</td></tr>
+</tbody>
+</table>
 
 **IMPORTANT POINT:** Replication is more than just "they downloaded my scripts and ran exactly those". There must be something changed in the replication work (but perhaps that change is not very large).

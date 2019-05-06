@@ -16,7 +16,14 @@ The aim of the ROSE Festival is to create a celebration of open science in Softw
 
 It can take months to years before a SE result is understood, repeated, extended, or perhaps even refuted. Yet, SE research venues focus on new results rather than revisiting old results. This limits the kinds of work that appear at those venues. For example, consider the research maturity levels listed below. “Functional, reusable, and available” can be assessed at the time of initial publication. However, “replicated and reproduced” may not become apparent until months or years after the initial publication.
 
-![](etc/img/acm.png)
+<table>
+<thead></thead>
+<tbody(s)>
+<tr><td><strong>Functional</strong>	</td><td align="center"> <strong>Reusable</strong> </td><td align="center"> <strong>Available</strong></td><td align="center"> <strong>Replicated</strong> </td><td align="center"> <strong>Reproduced</strong> </td></tr>
+<tr><td>No Badge </td><td align="center"> <dl><img src="https://2019.icse-conferences.org/getImage/orig/red.jpg" alt=""></dl>  </td><td align="center"> <dl><img src="https://2019.icse-conferences.org/getImage/orig/green.jpg" alt=""></dl>	   </td><td align="center">  <dl><img src="https://2019.icse-conferences.org/getImage/orig/blue.jpg" alt=""></dl> </td><td align="center">  <dl><img src="https://2019.icse-conferences.org/getImage/orig/deepBlue.jpg" alt=""></dl> </td></tr>
+<tr><td> <!--Functional--> Artifacts documented, consistent, complete, exercisable, and include appropriate evidence of verification and validation </td><td align="center"> <!--Reusable--> Functional + very carefully documented and well-structured to the extent that reuse and repurposing is facilitated. In particular, norms and standards of the research community for artifacts of this type are strictly adhered to. </td><td align="center"> <!--Available-->  Functional + placed on a publicly accessible archival repository. A DOI or link to this repository along with a unique identifier for the object is provided. </td><td align="center"> <!--Replicated--> Available + main results of the paper have been obtained in a subsequent study by a person or team other than the authors, using, in part, artifacts provided by the author. </td><td align="center"> <!--Reproduced--> Available + the main results of the paper have been independently obtained in a subsequent study by a person or team other than the authors, without the use of author-supplied artifacts.</td></tr>
+</tbody>
+</table>
 
 ## METHOD
 
@@ -64,6 +71,10 @@ Note that:
 - Chairs and organizers:
      - Gregory Gay, Chalmers | University of Gothenburg, Sweden
      - Tim Menzies, NC State University, USA
+- Steering Committee:
+     - Robert Feldt,	Chalmers | University of Gothenburg, Sweden
+     - Tim Menzies, NC State University, USA
+     - Thomas	Zimmermann,	Microsoft Research, USA
 - Program Committee:
      - Neil	Ernst,	University of Victoria, Canada
      - Robert	Feldt,	Chalmers | University of Gothenburg, Sweden
