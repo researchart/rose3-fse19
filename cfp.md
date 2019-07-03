@@ -5,8 +5,10 @@
 
 <img align="center" src="etc/img/header.png">  
 
-Submissions due July 10, 2019.  
+Submissions due July 24, 2019.  
 A track at [FSE 2019](https://esec-fse19.ut.ee/).
+
+[Submit via Easychair](https://easychair.org/conferences/?conf=rosefse19) (See instructions below)
 
 - Chairs and organizers:
      - Gregory Gay, Chalmers | University of Gothenburg, Sweden
