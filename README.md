@@ -2,7 +2,7 @@
 
  <img src="etc/img/header.png" align="center">
 
-### A track at [FSE 2019](https://esec-fse19.ut.ee/), August 28-30, 2019.
+### A track at [ESEC/FSE 2019](https://esec-fse19.ut.ee/), August 28-30, 2019.
 
 - [Call for Presentations and Submission Instructions](cfp.md) (Due July 24, 2019)
 
@@ -27,7 +27,7 @@ It can take months to years before a SE result is understood, repeated, extended
 
 ## METHOD
 
-We propose 90 minute conference sessions for FSE’18, RE’19, ESEC/FSE’19, ICSE’19, ESEC/FSE’19, RE'19  (and possibly as an ongoing even into the future) of the following form. 
+We propose 90 minute conference sessions of the following form. 
 
 - Part1a: “Lightning talks” to report replicated or reproduced results (or negative results where replication and/or reproduction failed).
 - Part1b: Invited talks on open science methods, successes (and failures)
