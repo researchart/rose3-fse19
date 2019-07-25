@@ -5,7 +5,7 @@
 
 <img align="center" src="etc/img/header.png">  
 
-Submissions due July 24, 2019.  
+Submissions due ~~July 24, 2019~~ (we are still accepting submissions).  
 A track at [FSE 2019](https://esec-fse19.ut.ee/).
 
 [Submit via Easychair](https://easychair.org/conferences/?conf=rosefse19) (See instructions below)

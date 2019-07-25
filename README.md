@@ -4,7 +4,7 @@
 
 ### A track at [FSE 2019](https://esec-fse19.ut.ee/), August 28-30, 2019.
 
-- [Call for Presentations and Submission Instructions](cfp.md) (Due July 24, 2019)
+- [Call for Presentations and Submission Instructions](cfp.md)
 
 _____
 
@@ -49,7 +49,7 @@ Note that:
 
 ## CALL FOR PRESENTATIONS
 
-- [Call for Presentations](cfp.md) (Due July 10, 2019)
+- [Call for Presentations](cfp.md)
 
 ## THE "FISH-BOWL PANEL"
 
