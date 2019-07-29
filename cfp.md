@@ -21,7 +21,7 @@ A track at [ESEC/FSE 2019](https://esec-fse19.ut.ee/).
      - Neil	Ernst,	University of Victoria, Canada
      - Robert	Feldt,	Chalmers | University of Gothenburg, Sweden
      - Daniel	Graziotin,	University of Stuttgart, Germany
-     - Martin	Monperrus,	University of Lille & INRIA, France
+     - Martin	Monperrus,	KTH Royal Institute of Technology, Sweden
      - Chakkrit	Tantithamthavorn, Monash University, Australia
      - Sira	Vegas,	Universidad Politécnica de Madrid, Spain
      - Thomas	Zimmermann,	Microsoft Research, USA
