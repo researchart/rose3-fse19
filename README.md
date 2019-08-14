@@ -11,16 +11,16 @@ _____
 Thursday, August 29. 
 11:00 - 12:30, Room 5
 
-*11:00 - 11:06: **Gregory Gay** - Introduction 
-*11:07 - 11:13: **Haipeng Kai** - Replicating an Obfuscation-Resilient Malware Detector
-*11:14 - 11:20: **Toshiki Hirao** - TBD
-*11:21 - 11:27: **Christian Gram Kalhauge** and Jens Palsberg - What could possibly go wrong? Lessons learned from building a truly reproducible artifact
-*11:28 - 11:34: **Paul Gazzillo**, Austin Mordahl - Good Engineering Makes for Good Science
-*11:35 - 11:41: **Claudio Menghi**, Shiva Nejati, Khouloud Gaaloul and Lionel Briand -  Replicating Experiments with Industrial Cyber-Physical Systems: Challenges and Opportunities
-*11:42 - 11:48: Thomas Durieux, Fernanda Madeiral, Matias Martinez, Rui Abreu - TBD
-*11:49 - 11:55: **Jacob Krüger**, Gül Çalıklı, Thorsten Berger, Thomas Leich, and Gunter Saake - TBD
-*11:56 - 12:01: **Anil Koyuncu**, Kui Liu, Tegawendé F. Bissyandé, Dongsun Kim, Martin Monperrus, Jacques Klein, and Yves Le Traon - Reusability in Program Repair
-*12:02 - 12:30: Fishbowl Panel
+* 11:00 - 11:06: **Gregory Gay** - Introduction 
+* 11:07 - 11:13: **Haipeng Kai** - Replicating an Obfuscation-Resilient Malware Detector
+* 11:14 - 11:20: **Toshiki Hirao** - TBD
+* 11:21 - 11:27: **Christian Gram Kalhauge** and Jens Palsberg - What could possibly go wrong? Lessons learned from building a truly reproducible artifact
+* 11:28 - 11:34: **Paul Gazzillo**, Austin Mordahl - Good Engineering Makes for Good Science
+* 11:35 - 11:41: **Claudio Menghi**, Shiva Nejati, Khouloud Gaaloul and Lionel Briand -  Replicating Experiments with Industrial Cyber-Physical Systems: Challenges and Opportunities
+* 11:42 - 11:48: Thomas Durieux, Fernanda Madeiral, Matias Martinez, Rui Abreu - TBD
+* 11:49 - 11:55: **Jacob Krüger**, Gül Çalıklı, Thorsten Berger, Thomas Leich, and Gunter Saake - TBD
+* 11:56 - 12:01: **Anil Koyuncu**, Kui Liu, Tegawendé F. Bissyandé, Dongsun Kim, Martin Monperrus, Jacques Klein, and Yves Le Traon - Reusability in Program Repair
+* 12:02 - 12:30: Fishbowl Panel
 _____
 
 ## Aim
