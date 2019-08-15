@@ -18,7 +18,7 @@ Thursday, August 29.
 * 11:28 - 11:34: **Paul Gazzillo**, Austin Mordahl - Good Engineering Makes for Good Science
 * 11:35 - 11:41: **Claudio Menghi**, Shiva Nejati, Khouloud Gaaloul and Lionel Briand -  Replicating Experiments with Industrial Cyber-Physical Systems: Challenges and Opportunities
 * 11:42 - 11:48: Thomas Durieux, Fernanda Madeiral, Matias Martinez, Rui Abreu - TBD
-* 11:49 - 11:55: **Jacob Krüger**, Gül Çalıklı, Thorsten Berger, Thomas Leich, and Gunter Saake - TBD
+* 11:49 - 11:55: **Jacob Krüger**, Gül Çalıklı, Thorsten Berger, Thomas Leich, and Gunter Saake - Replicating Research? Some Experiences on Replication Packages in the SE Research Community
 * 11:56 - 12:01: **Anil Koyuncu**, Kui Liu, Tegawendé F. Bissyandé, Dongsun Kim, Martin Monperrus, Jacques Klein, and Yves Le Traon - Reusability in Program Repair
 * 12:02 - 12:30: Fishbowl Panel
 _____
