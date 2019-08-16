@@ -13,7 +13,7 @@ Thursday, August 29.
 
 * 11:00 - 11:06: **Gregory Gay** - Introduction 
 * 11:07 - 11:13: **Haipeng Kai** - Replicating an Obfuscation-Resilient Malware Detector
-* 11:14 - 11:20: **Toshiki Hirao** - TBD
+* 11:14 - 11:20: **Toshiki Hirao**, Shane McIntosh, Akinori Ihara, Matsumoto Kenichi - Challenges Encountered When Preparing the Replication Package for ‘The Review Linkage Graph for Code Review Analytics’
 * 11:21 - 11:27: **Christian Gram Kalhauge** and Jens Palsberg - What could possibly go wrong? Lessons learned from building a truly reproducible artifact
 * 11:28 - 11:34: **Paul Gazzillo**, Austin Mordahl - Good Engineering Makes for Good Science
 * 11:35 - 11:41: **Claudio Menghi**, Shiva Nejati, Khouloud Gaaloul and Lionel Briand -  Replicating Experiments with Industrial Cyber-Physical Systems: Challenges and Opportunities
